@@ -6,6 +6,7 @@ target/
 .DS_STORE
 /bin/
 *.pid
+*.tmp
 
 ### STS ###
 .apt_generated
